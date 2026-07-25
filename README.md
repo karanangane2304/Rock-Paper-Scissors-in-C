@@ -192,7 +192,7 @@ The random number generator (`srand(time(NULL))`) is initialized inside the game
 
 **Karan Angane**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/karanangane2304
 
 ---
 
