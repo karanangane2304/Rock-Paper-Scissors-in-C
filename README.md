@@ -29,7 +29,7 @@ A simple command-line **Rock Paper Scissors** game developed in **C** where the 
 ## 📂 Project Structure
 
 ```
-RockPaperScissors/
+Rock_Paper_Scissors_in_C/
 │
 ├── rock_paper_scissors.c
 └── README.md
@@ -50,7 +50,7 @@ git clone https://github.com/karanangane2304/Rock-Paper-Scissors-in-C.git
 2. Navigate to the project folder
 
 ```bash
-cd RockPaperScissors
+cd Rock_Paper_Scissors_in_C
 ```
 
 3. Compile the program
