@@ -44,7 +44,7 @@ RockPaperScissors/
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/RockPaperScissors.git
+git clone https://github.com/karanangane2304/Rock-Paper-Scissors-in-C.git
 ```
 
 2. Navigate to the project folder
